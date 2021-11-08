@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="sumaconcurrente:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sumaconcurrente_jar</output-path>
+    <root id="archive" name="sumaconcurrente.jar">
+      <element id="module-output" name="sumaconcurrente" />
+    </root>
+  </artifact>
+</component>
